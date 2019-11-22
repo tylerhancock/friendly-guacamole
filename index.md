@@ -10,6 +10,6 @@ title: "Tyler Hancock, Designer"
 	  <p>At FCB, I helped introduce a more agile design process that cut our project inefficiencies in half. My background in technology makes it easy for me to spot and eliminate potential issues long before they derail a project. My team is know for designing and shipping products that delight our clients and their customers.</p>
 	  <p>I’ve had the pleasure of working with the likes of Google, Ted Koppel, Novartis, Havas, and more. My work has been featured on Awwwards, OnePageLove, thegallery.io, and MM&M. You can view my most recent works on <a href="https://dribbble.com/tylerhancock" target="_blank">Dribbble</a>.</p>
 	  <p>Before FCB, I led product at an early stage startup. I was responsible the product design, identity, marketing, and customer support. </p>
-	  <p class="pb-5">I not very active on social media, but you can find me on <a href="https://twitter.com/tyler_m_hancock" target="_blank">Twitter</a>, <a href="https://www.instagram.com/tylermhancock/" target="_blank">Instagram</a>, and <a href="https://www.linkedin.com/in/tylermhancock/" target="_blank">LinkedIn</a>.</p>
+	  <p class="pb-5">I'm not very active on social media, but you can find me on <a href="https://twitter.com/tyler_m_hancock" target="_blank">Twitter</a>, <a href="https://www.instagram.com/tylermhancock/" target="_blank">Instagram</a>, and <a href="https://www.linkedin.com/in/tylermhancock/" target="_blank">LinkedIn</a>.</p>
 	</div>
 </div>
